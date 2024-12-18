@@ -6,7 +6,7 @@ import { createBrowserRouter, createRoutesFromElements, Route, RouterProvider } 
 import Layout from './Component/Layout'
 import Home from './Component/Home/Home'
 import About from './Component/About/About'
-import Contact from './Component/Contact/contact'
+import Contact from './Component/Contact/Contact'
 import User from './Component/User/User'
 
 // const router = createBrowserRouter([
